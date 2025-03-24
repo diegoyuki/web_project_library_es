@@ -122,8 +122,8 @@
   margin: auto;
   padding-top: 68px;
   max-width: 760px;
-  list-style: none;
-  padding-left: 0%;
+  list-style-type: none;
+  padding-left: 0;
 }
 
 .card {
